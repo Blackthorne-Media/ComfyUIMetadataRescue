@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# Optional: install ExifTool for WEBP/JPEG and broader metadata support.
